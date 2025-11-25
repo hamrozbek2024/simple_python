@@ -1,1 +1,1 @@
-# simple_python
+Just simple PYTHON 🤷‍♂️
